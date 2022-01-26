@@ -25,7 +25,7 @@ struct VideoCard: View {
             }
             Image(systemName: "play.fill")
             .foregroundColor(.white)
-            .font(.title).padding().background(.ultraThinMaterial).cornerRadius(50)
+            .font(.title).padding().background(.ultraThinMaterial).cornerRadius(60)
         }
     }
 }
